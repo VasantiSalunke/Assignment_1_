@@ -8,10 +8,12 @@ public class Main {
         student s1 = new student("Siya", "FY");
         student s2 = new student("Riya", "SY");
         student s3 = new student("Priya", "TY");
+        student s4 = new student("Jiya","SY");
 
 
         s1.display();
         s2.display();
         s3.display();
+        s4.display();
     }
 }
